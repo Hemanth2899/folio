@@ -1,0 +1,5 @@
+.env
+config.local.php
+messages.txt
+node_modules
+.vercel
